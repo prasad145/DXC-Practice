@@ -2,7 +2,7 @@
 <h1>Assessment Output Screen Shots:</h1>
 <hr>
 <h3>Problem1:</h1>
-<img src = "Employee_output.jpg" alt = "output">
+<img src = "Employee_output.jpeg" alt = "output">
 <hr>
 <h3>Problem2:</h1>
 <hr>
